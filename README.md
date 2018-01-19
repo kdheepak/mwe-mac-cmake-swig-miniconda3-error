@@ -29,3 +29,20 @@ Fatal Python error: PyThreadState_Get: no current thread
 
 ```
 
+### Building Python extension without CMake
+
+
+```
+$ git clone https://github.com/kdheepak/mwe-mac-cmake-swig-miniconda3-error
+$ cd mwe-mac-cmake-swig-miniconda3-error
+
+$ cd swig
+$ pip install -e .
+$ python hello.py
+
+$ python
+>>> import hello
+>>> hello.hello()
+
+```
+
