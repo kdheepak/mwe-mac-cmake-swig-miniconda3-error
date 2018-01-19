@@ -1,3 +1,5 @@
+%module hello
+
 %{
 void hello(void);
 %}
