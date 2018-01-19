@@ -1,5 +1,5 @@
-add_library (Hello hello.cpp)
+add_library (hello-static hello.cpp)
+add_library(hello-shared SHARED hello.cpp)
+target_include_directories (hello-static PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
+target_include_directories (hello-shared PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
 
-# Make sure the compiler can find include files for our Hello library
-# when other libraries or executables link to Hello
-target_include_directories (Hello PUBLIC ${CMAKE_CURRENT_SOURCE_DIR})
