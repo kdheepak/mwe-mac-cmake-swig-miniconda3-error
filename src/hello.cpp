@@ -9,7 +9,11 @@
 #endif
 #endif
 
+extern "C" {
+
 HELLO_Export void hello(void);
+
+}
 
 void hello(void)
 {
