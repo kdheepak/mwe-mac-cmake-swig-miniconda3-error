@@ -1,7 +1,7 @@
 #include <iostream>
 
+void hello(void)
+{
 
-void hello(void) {
-
-	cout << "Hello World";
+	std::cout << "Hello World";
 }
