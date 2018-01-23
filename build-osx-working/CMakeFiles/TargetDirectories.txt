@@ -1,0 +1,8 @@
+/Users/dkrishna/GitRepos/mwe-mac-cmake-swig-miniconda3-error/build-osx-working/CMakeFiles/rebuild_cache.dir
+/Users/dkrishna/GitRepos/mwe-mac-cmake-swig-miniconda3-error/build-osx-working/CMakeFiles/edit_cache.dir
+/Users/dkrishna/GitRepos/mwe-mac-cmake-swig-miniconda3-error/build-osx-working/src/CMakeFiles/rebuild_cache.dir
+/Users/dkrishna/GitRepos/mwe-mac-cmake-swig-miniconda3-error/build-osx-working/src/CMakeFiles/edit_cache.dir
+/Users/dkrishna/GitRepos/mwe-mac-cmake-swig-miniconda3-error/build-osx-working/src/CMakeFiles/hello-shared.dir
+/Users/dkrishna/GitRepos/mwe-mac-cmake-swig-miniconda3-error/build-osx-working/swig/CMakeFiles/rebuild_cache.dir
+/Users/dkrishna/GitRepos/mwe-mac-cmake-swig-miniconda3-error/build-osx-working/swig/CMakeFiles/edit_cache.dir
+/Users/dkrishna/GitRepos/mwe-mac-cmake-swig-miniconda3-error/build-osx-working/swig/CMakeFiles/_hello.dir
