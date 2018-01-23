@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc   -bundle -Wl,-headerpad_max_install_names  -o _hello.so CMakeFiles/_hello.dir/helloPYTHON_wrap.c.o -Wl,-rpath,/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/src -Wl,-rpath,/Users/dkrishna/miniconda3/lib ../src/libhello-shared.dylib /Users/dkrishna/miniconda3/lib/libpython3.6m.dylib 

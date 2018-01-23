@@ -1,0 +1,8 @@
+/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/CMakeFiles/rebuild_cache.dir
+/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/CMakeFiles/edit_cache.dir
+/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/src/CMakeFiles/rebuild_cache.dir
+/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/src/CMakeFiles/edit_cache.dir
+/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/src/CMakeFiles/hello-shared.dir
+/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/swig/CMakeFiles/rebuild_cache.dir
+/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/swig/CMakeFiles/edit_cache.dir
+/Users/dkrishna/GitRepos/mwe-cmake-swig-error/build-osx-not-working/swig/CMakeFiles/_hello.dir
